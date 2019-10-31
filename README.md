@@ -3,4 +3,4 @@ Raspberry Pi 4终于到手了。
 
 更多信息，请关注安微云公众号。
 
-![image](https://github.com/dangelzjj/enjoy_Raspberry_Pi_4/blob/master/images/anweiyun_qrcode.jpg)
+![image](https://github.com/dangelzjj/enjoy_Raspberry_Pi_4/blob/master/images/anweiyun_qrcode_8.jpg)
