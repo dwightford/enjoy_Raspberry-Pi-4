@@ -157,6 +157,5 @@ Raspberry Pi 4终于到手了。折腾开始!
 &emsp;&emsp;Raspberry Pi 4上的美女图爬虫代码获取请访问：https://github.com/dangelzjj/enjoy_Raspberry-Pi-4
 
 -
-&emsp;&emsp;安微云是国内领先的基于Arm架构的云技术团队，提供虚拟化、数据分析、数据存储、文本处理、语义分析、自动化脚本等企业级云技术及服务。
-更多信息，  
-&emsp;&emsp;请关注"安微云"公众号。
+&emsp;&emsp;安微云是国内领先的基于Arm架构的云技术团队，提供虚拟化、数据分析、数据存储、文本处理、语义分析、自动化脚本等企业级云技术及服务。  
+&emsp;&emsp;更多信息，请关注"安微云"公众号。
