@@ -1,10 +1,13 @@
 Raspberry Pi 4终于到手了。
 让我们开启Raspberry Pi 4的折腾之旅！
 
-[20191104]
+[20191105]  
+增加基于scrapy架构的关系型数据爬虫，并存储到mysql数据库。目录: scrapy_mysql\
+
+[20191104]  
 增加Raspberry Pi 4上docker容器实践。目录: docker\
 
-[20191104]
+[20191104]  
 增加基于scrapy架构的美女图爬虫。目录：scrapy_beauty\
 
 -------------------------
