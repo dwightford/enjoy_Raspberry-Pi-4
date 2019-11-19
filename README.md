@@ -1,6 +1,9 @@
 Raspberry Pi 4终于到手了。  
 让我们开启Raspberry Pi 4的折腾之旅！  
 
+[20191119]  
+增加Raspberry Pi 4上MongoDB数据库实践。目录: scrapy_mongo\  
+
 [20191113]  
 增加Raspberry Pi 4上rasa框架实践。目录: rasa\  
 
