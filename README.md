@@ -1,6 +1,9 @@
 Raspberry Pi 4终于到手了。  
 让我们开启Raspberry Pi 4的折腾之旅！  
 
+[20191211]  
+增加Raspberry Pi 4上搭建MariaDB Replication实践。目录: mysql_replication\  
+
 [20191125]  
 增加Raspberry Pi 4上搭建MongoDB副本集集群实践。目录: mongo_replicaset\  
 
